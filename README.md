@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Haseeb Khan.
-- 👀 I’m interested in Entrepreneurship
 - 🌱 I’m currently learning JavaScript and Node.js
-- 💞️ I’m looking to collaborate to create a website.
 - 📫 How to reach me: https://linktr.ee/HaseebKhan
