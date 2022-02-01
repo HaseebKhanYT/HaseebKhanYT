@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Haseeb Khan.
-- 🌱 I’m currently learning JavaScript and Node.js
+- 🌱 I’m currently learning VueJS.
 - 📫 How to reach me: https://linktr.ee/HaseebKhan
