@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Haseeb Khan.
 - 💻 Software Engineering Intern at LaunchWeb.me
-- 🌱 I’m currently learning VueJS and TypeScript.
+- 🌱 I’m currently exploring VueJS and TypeScript.
 - 📫 How to reach me: https://linktr.ee/HaseebKhan
