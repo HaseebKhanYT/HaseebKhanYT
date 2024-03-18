@@ -39,8 +39,62 @@
   <a href="https://react.dev/" target="_blank"> 
    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>   
+  &emsp; 
+  <a href="https://reactnative.dev/" target="_blank"> 
+   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  </a>   
   &emsp;
   <a href="https://nextjs.org/" target="_blank">
     <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a> 
+  &emsp;
+  <a href="http://vuejs.org">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  </a>
+  &emsp;
+  <a href="http://sass-lang.com">
+    <img alt="Sass/SCSS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  </a>
+  &emsp;
+  <a href="http://getbootstrap.com">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
+  <a href="http://tailwindcss.com">
+    <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
+  &emsp;
+  <a href="http://chartjs.org">
+    <img alt="ChartJS" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
+  </a>
+</p>
+
+### ☁ Databases & Cloud Hosting
+
+<p align="left">
+  &emsp;
+  <a href="http://firebase.google.com">
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"
+  </a>
+    &emsp;
+  <a href="http://mysql.com">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
+  </a>
+    &emsp;
+  <a href="http://aws.amazon.com">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+  </a>
+</p>
+
+### 🎨 Design
+
+<p align="left">
+  &emsp;
+  <a href="http://figma.com">
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+  </a>
+  &emsp;
+  <a href="http://figma.com">
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+  </a>
 </p>
