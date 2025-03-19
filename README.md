@@ -9,8 +9,8 @@
 
 ## ✍ Key Notes
 
-- Self taught, frontend developer
-- Experience with **`ReactJS`** and **`VueJS`**
+- Product Manager with Dev Experience
+- Experience with Early Stage Startups
 - Always down to chat! Contact me on one of the platforms down below!
 
 ## 🛠️ My Skills
