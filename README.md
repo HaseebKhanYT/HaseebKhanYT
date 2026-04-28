@@ -1,15 +1,15 @@
 <h1 align="center">Hi , I'm Haseeb Khan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Product%20Manager;Product%20Designer;Product+Developer;React%20|%20React+Native%20|%20Vue%20;Product+Marketer;Improving+everything&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Applied%20AI%20Engineer;AI%20Product%20Manager;Product+Developer;RAG+LLM;Building+Scalable+Systems&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I'm a self-taught Software Developer & Product Designer with CS Degree. You might be wondering why I have written self-taught when I have a CS degree. Well, I believe the education I got was pretty much a foundation layer where I have just learned the basics of the technologies that exist. The world is moving at a very fast pace where the education system is struggling to catch up to teach the required and existing technologies. Hence, I taught myself some of the most valuable skills through the work I have done and the projects I have created to cover the gap between my education and skills required by the industry.</h4>
+<h4 align="center">I'm an Applied AI Engineer with a Masters in Computer Software Engineering with 3+ years of SWE experience. I have a passion for building great products and leading the development of great products. I have attention to detail and an eye for design.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haseebkhanyt&label=Profile%20views&color=0e75b6&style=plastic" alt="haseebkhanyt" /> </p>
 
 ## ✍ Key Notes
 
-- Product Manager with Dev Experience
+- In-depth knowledge of AI/ML Workflow
 - Experience with Early Stage Startups
 - Always down to chat! Contact me on one of the platforms down below!
 
