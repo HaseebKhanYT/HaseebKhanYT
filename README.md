@@ -1,112 +1,128 @@
-<h1 align="center">Hi , I'm Haseeb Khan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Haseeb Khan</h1>
+<h3 align="center">Applied AI Engineer · LLM & RAG Systems · AI Research</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Applied%20AI%20Engineer;AI%20Product%20Manager;Product+Developer;RAG+LLM;Building+Scalable+Systems&center=true&width=500&height=50"></a>
+  <a href="mailto:haseeb3ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/haseebkhanyt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://haseeb.one"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://haseeb.one/resume"><img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
-<hr/>
-<h4 align="center">I'm an Applied AI Engineer with a Masters in Computer Software Engineering with 3+ years of SWE experience. I have a passion for building great products and leading the development of great products. I have attention to detail and an eye for design.</h4>
+
+<p align="center">
+  <em>San Francisco Bay Area, CA · Open to relocation · Authorized to work in the USA</em>
+</p>
+
+---
+
+## About
+
+Applied AI Engineer focused on building **production-grade LLM and RAG systems**. Master's in Information Systems with 3+ years of full-stack engineering and active research at **Northeastern University** on AI-generated content detection and multi-agent reasoning for healthcare.
+
+I work at the intersection of applied research and shipped systems, from designing lightweight neural architectures to deploying retrieval pipelines in regulated domains.
+
+---
+
+## Current Focus
+
+- Lightweight neural architectures for **AI-generated text detection** (stylometric features + CNN)
+- **Multi-agent LLM frameworks** for clinical decision support and hallucination mitigation
+- Production **RAG pipelines** — chunking strategy, vector search tuning, grounded generation
+- LLM serving and evaluation with **vLLM** and **Hugging Face** ecosystems
+
+---
+
+## Tech Stack
+
+**AI / ML**
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=haseebkhanyt&label=Profile%20views&color=0e75b6&style=plastic" alt="haseebkhanyt" /> </p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B0082?style=flat&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-## ✍ Key Notes
+**LLM Serving & APIs**
+<br>
+![vLLM](https://img.shields.io/badge/vLLM-3B82F6?style=flat&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-- In-depth knowledge of AI/ML Workflow
-- Experience with Early Stage Startups
-- Always down to chat! Contact me on one of the platforms down below!
+**Vector DBs & Retrieval**
+<br>
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat&logo=milvus&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-22C55E?style=flat&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
-## 🛠️ My Skills
-  
-### 💻 Programming languages
+**Languages & Data**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-<p align="left">
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-   </a> 
-  &emsp;
-  <a href="https://www.tutorialspoint.com/typescript/index.htm" target="_blank"> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  </a> 
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://cplusplus.com/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://cplusplus.com/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  </a>
-</p>
+**Cloud**
+<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-### 🔥 Frontend Development
+---
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3schools.com/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  </a>   
-  &emsp; 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a>   
-  &emsp; 
-  <a href="https://react.dev/" target="_blank"> 
-   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a>   
-  &emsp; 
-  <a href="https://reactnative.dev/" target="_blank"> 
-   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  </a>   
-  &emsp;
-  <a href="https://nextjs.org/" target="_blank">
-    <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="http://vuejs.org">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-  </a>
-  &emsp;
-  <a href="http://sass-lang.com">
-    <img alt="Sass/SCSS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-  </a>
-  &emsp;
-  <a href="http://getbootstrap.com">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </a>
-  &emsp;
-  <a href="http://tailwindcss.com">
-    <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </a>
-  &emsp;
-  <a href="http://chartjs.org">
-    <img alt="ChartJS" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
-  </a>
-</p>
+## Featured Work
 
-### ☁ Databases & Cloud Hosting
+### Clinical GenAI — RAG for Electronic Medical Record Analysis
 
-<p align="left">
-  &emsp;
-  <a href="http://firebase.google.com">
-    <img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"
-  </a>
-    &emsp;
-  <a href="http://mysql.com">
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
-  </a>
-    &emsp;
-  <a href="http://aws.amazon.com">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
-  </a>
-</p>
+A HIPAA-compliant retrieval pipeline that grounds clinician queries against patient EMRs and medical literature.
 
-### 🎨 Design
+- PDF ingestion with token-based chunking + overlap to preserve clinical context across long records
+- Dockerized **Milvus** vector store using `text-embedding-004` (768-d) for sub-second semantic similarity search
+- RAG layer pairs cosine-similarity retrieval (>0.82) with **Gemini 2.5 Flash** and structured prompting to reduce hallucinations and deliver clinician-focused outputs
 
-<p align="left">
-  &emsp;
-  <a href="http://figma.com">
-    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
-  </a>
-</p>
+`Python` · `Milvus` · `Docker` · `Gemini` · `PyPDF2`
+
+### AI-Generated Text Detection — Research, Northeastern University
+
+Lightweight CNN architecture using refined stylometric features, designed for cross-domain generalization.
+
+- Improved detection accuracy from **97% → 99%** via tuned convolutional depth, regularization, and feature normalization
+- Reduced overfitting and domain bias across heterogeneous generators (instruction-tuned, base, long-form)
+
+`PyTorch` · `Hugging Face` · `Scikit-learn` · `NumPy`
+
+### Multi-Agent Clinical Decision Framework
+
+A multi-agent system that cross-validates diagnostic outputs from fine-tuned LLMs for emergency medicine in Italy.
+
+- Cross-agent verification mitigates single-model hallucinations on critical conditions including **sepsis**
+- Improved prediction reliability through ensemble reasoning over fine-tuned medical LLMs
+
+`PyTorch` · `LangChain` · `Hugging Face` · `vLLM`
+
+---
+
+## Background
+
+**AI Research Lead** — Northeastern University · _Sep 2024 – Apr 2026_
+<br>Led research on AI hallucinations, generated-content detection, and AI applications in emergency medicine in collaboration with faculty.
+
+**Software Engineer** — Launchweb · _Jan 2021 – Jan 2023_
+<br>Full-stack Node.js / TypeScript development; scaled user base from **24 → 7,000+ registered users**; owned component-driven UI, API design, and Docker-based deployment workflows.
+
+---
+
+## Education
+
+**Northeastern University** — M.S. Information Systems · _Sep 2024 – Apr 2026_
+<br>Focus on applied ML, LLM systems, and retrieval-augmented generation; concurrent research on AI hallucinations and AI applications in clinical decision support.
+<br>**GPA:** 3.83 / 4.00
+
+---
+
+## Let's Connect
+
+**Available immediately for full-time roles.** I'm open to **Applied AI / ML Engineer** positions focused on LLM systems, RAG, and applied research. Reach out via [email](mailto:haseeb3ai@gmail.com) or [LinkedIn](https://linkedin.com/in/haseebkhanyt).
