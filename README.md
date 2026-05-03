@@ -119,7 +119,7 @@ A multi-agent system that cross-validates diagnostic outputs from fine-tuned LLM
 
 **Northeastern University** — M.S. Information Systems · _Sep 2024 – Apr 2026_
 <br>Focus on applied ML, LLM systems, and retrieval-augmented generation; concurrent research on AI hallucinations and AI applications in clinical decision support.
-<!-- GPA: optional — add only if ≥ 3.7, e.g. "GPA: 3.85 / 4.00" -->
+<br>**GPA:** 3.83 / 4.00
 
 ---
 
