@@ -12,6 +12,10 @@
   <em>San Francisco Bay Area, CA · Open to relocation · Authorized to work in the USA</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaseebKhanYT&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile views" />
+</p>
+
 ---
 
 ## About
