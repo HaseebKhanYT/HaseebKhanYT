@@ -114,6 +114,9 @@ A multi-agent system that cross-validates diagnostic outputs from fine-tuned LLM
 **AI Research Lead** — Northeastern University · _Sep 2024 – Apr 2026_
 <br>Led research on AI hallucinations, generated-content detection, and AI applications in emergency medicine in collaboration with faculty.
 
+**AI Engineer** — KS Systems · _Jan 2025 – Apr 2025_
+<br>Devloped Clinical GenAI, a Retrieval-Augmented Generation (RAG) system for EMR analysis, integrating PDF-based clinical data ingestion, vectorized semantic retrieval with Milvus, a robust FastAPI backend, and GCP deployment, leveraging Gemini-powered generation to deliver accurate, low-hallucination, clinician-focused responses.
+
 **Software Engineer** — Launchweb · _Jan 2021 – Jan 2023_
 <br>Full-stack Node.js / TypeScript development; scaled user base from **24 → 7,000+ registered users**; owned component-driven UI, API design, and Docker-based deployment workflows.
 
